@@ -25,8 +25,7 @@ video editing, AI, and automation. Always experimenting with new tools.
 ## Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nnvthh&show_icons=true&hide_border=true&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&bg_color=0d0d0d" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnvthh&layout=compact&hide_border=true&title_color=ffffff&text_color=a0a0a0&bg_color=0d0d0d" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnvthh&theme=github_dark" />
 </p>
 
 <br>
