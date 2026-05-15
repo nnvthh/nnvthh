@@ -1,32 +1,36 @@
-👋 Hi, I'm Nathan Dias Rezende
-💻 Technical Informatics Student passionate about technology, design, and innovation.
-🚀 Constantly learning and improving my skills in frontend development, especially with JavaScript and React.
-🎨 Also exploring design, 3D modeling, video editing, AI, and automation.
+<img src="./assets/huecomundo.webp" width="100%" />
 
----
+# Nathan Dias Rezende
 
-🧠 About Me
-🎓 Currently studying Technical Informatics.
-💡 Interested in creating beautiful, efficient, and responsive user interfaces.
-🧩 Always experimenting with new tools and technologies.
-🌱 Focused on frontend development and creative digital experiences.
+Technical Informatics student. Frontend development, design, and digital experiences.
 
----
+<br>
 
-🛠️ Languages & Tools
+## About
+
+Currently studying Technical Informatics, focused on building interfaces that are clean,
+efficient, and responsive. Interested in frontend development, design systems, 3D modeling,
+video editing, AI, and automation. Always experimenting with new tools.
+
+<br>
+
+## Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,vscode,n8n,figma,git,threejs" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,vscode,figma,git,threejs&theme=dark" />
 </p>
 
----
+<br>
 
-📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathanrezende&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanrezende&layout=compact&theme=tokyonight" />
+## Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nnvthh&show_icons=true&hide_border=true&title_color=ffffff&text_color=a0a0a0&icon_color=ffffff&bg_color=0d0d0d" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnvthh&layout=compact&hide_border=true&title_color=ffffff&text_color=a0a0a0&bg_color=0d0d0d" />
 </p>
 
----
+<br>
 
-📫 Let's Connect!
-📧 Email: nathandrezendi@gmail.com
+## Contact
+
+nathandrezendi@gmail.com
